@@ -18,7 +18,7 @@ import java.util.Map;
 public class ApiCallRepository {
 
 
-    private static final String PLANS_URL = "http://acap.guardian-point.com/api/ws_fetchBasicCanine";
+    private static final String PLANS_URL = "YOUR_URL";
 
     public static void getPlansDetails(Context context, final String uid) {
 
